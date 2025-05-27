@@ -1,1 +1,7 @@
 ".ipynb_checkpoints/" 
+
+# Datos y salidas
+data/raw/
+data/clean/
+outputs/
+*.pyc
